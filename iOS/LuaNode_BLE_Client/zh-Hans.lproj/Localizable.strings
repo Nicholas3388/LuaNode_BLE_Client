@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  LuaNode_BLE_Client
+
+  Created by apple on 2017/4/11.
+  Copyright © 2017年 apple. All rights reserved.
+*/
+
+"ok" = "确定";
+"cancel" = "取消";
+"alert" = "注意";
+
+////////////////////////////
+"main.view" = "主界面";
+"main.scan" = "扫描";
+"main.ble" = "设备";
+"main.settings" = "设置";
+
+////////////////////////////
+"ScanView.title" = "扫描结果";
+
+////////////////////////////
+"DeviceView.title" = "设备";
+
+////////////////////////////
+"SettingView.title" = "设置";
+"SettingView.copyright" = "版权说明";
+"SettingView.copyrightInfo" = "LuaNode BLE Client\n\nDOIT\n2014 - 2017";
+"SettingView.enablePush" = "接收APNS推送";
+"SettingView.pushStateChanged" = "推送设置已更改";
+"SettingView.enableMQTT" = "开启MQTT推送";
+"SettingView.about" = "关于";
+"SettingView.author" = "作者";
+"SettingView.myName" = "Nicholas3388";
+"SettingView.email" = "邮箱";
+"SettingView.myEmail" = "wangwei@doit.am";
+"SettingView.notifSetup" = "通知设置";
+"SettingView.version" = "版本号";
+"SettingView.commonInfo" = "信息";
+"SettingView.BLEnotSupport" = "该设备不支持低功耗蓝牙";
+
+////////////////////////////
+"BLEView.ledControl" = "LED控制";
+"BLEView.ledState" = "LED状态切换";
+"BLEView.connectESP32header" = "控制LED前请先连接ESP32";
+"BLEView.connectESP32" = "连接ESP32";
+"BLEView.connecting" = "正在连接设备 ...";
+"BLEView.connected" = "已连接";
+"BLEView.connState" = "ESP32连接状态";
+"BLEView.disconnected" = "未连接";
+
+////////////////////////////
+"ScanView.disconnected" = "未连接";
+"ScanView.connected" = "已连接";
+"ScanView.deviceName" = "设备名：";
+"ScanView.deviceState" = "状态：";
+
+////////////////////////////
+"ServiceView.title" = "蓝牙服务";
+
+////////////////////////////
+"CharView.title" = "特性";
+
+////////////////////////////
+"DescView.title" = "描述符";

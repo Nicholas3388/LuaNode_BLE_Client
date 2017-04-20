@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  LuaNode_BLE_Client
+
+  Created by apple on 2017/4/11.
+  Copyright © 2017年 apple. All rights reserved.
+*/
+
+"ok" = "OK";
+"cancel" = "Cancel";
+"alert" = "Alert";
+
+"main.view" = "Main View";
+"main.scan" = "Scan";
+"main.ble" = "Device";
+"main.settings" = "Settings";
+
+////////////////////////////
+"ScanView.title" = "Scan Result";
+
+////////////////////////////
+"DeviceView.title" = "Device";
+
+////////////////////////////
+"SettingView.title" = "Settings";
+"SettingView.copyright" = "Copyright";
+"SettingView.copyrightInfo" = "LuaNode BLE Client\n\nCopyright doit. All rights reserved\n2014 - 2017";
+"SettingView.enablePush" = "Enable APNS";
+"SettingView.pushStateChanged" = "push state changed";
+"SettingView.enableMQTT" = "Enable MQTT Notification";
+"SettingView.about" = "About";
+"SettingView.author" = "Author";
+"SettingView.myName" = "Nicholas3388";
+"SettingView.email" = "Email";
+"SettingView.myEmail" = "wangwei@doit.am";
+"SettingView.notifSetup" = "Notify Setup";
+"SettingView.version" = "Version";
+"SettingView.commonInfo" = "Information";
+"SettingView.BLEnotSupport" = "BLE is not supported on this device";
+
+////////////////////////////
+"BLEView.ledState" = "LED toggle";
+"BLEView.ledControl" = "LED Control";
+"BLEView.connectESP32header" = "Connect ESP32 before toggle LED";
+"BLEView.connectESP32" = "Connect to ESP32";
+"BLEView.connecting" = "Connecting ...";
+"BLEView.connected" = "Connected";
+"BLEView.connState" = "ESP32 Connection State";
+"BLEView.disconnected" = "Disconnected";
+
+////////////////////////////
+"ScanView.disconnected" = "Disconnected";
+"ScanView.connected" = "Connected";
+"ScanView.deviceName" = "Dev Name: ";
+"ScanView.deviceState" = "State: ";
+
+////////////////////////////
+"ServiceView.title" = "BLE Service";
+
+////////////////////////////
+"CharView.title" = "Characteristics";
+
+////////////////////////////
+"DescView.title" = "Descriptor";
